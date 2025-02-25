@@ -1,0 +1,2 @@
+*.o *.exe *.dll /bin/ /obj/ *.log *.tmp
+

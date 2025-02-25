@@ -1,0 +1,660 @@
+﻿  FileName.cpp
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(90,97): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(90,84): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(90,72): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(90,51): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(112,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(117,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(117,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(117,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(117,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(120,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(120,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(120,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(147,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(152,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(152,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(152,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(152,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(155,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(155,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(155,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(159,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(159,22): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(163,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(163,22): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(172,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(177,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(177,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(177,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(177,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(180,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(180,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(180,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(184,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(184,21): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(188,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(188,21): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(194,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(199,103): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(199,90): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(199,78): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(199,62): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(202,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(202,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(202,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(211,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(218,106): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(218,93): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(218,81): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(218,65): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(221,74): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(221,61): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:         and
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(221,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(273,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(273,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(311,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(311,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(318,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(318,77): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(318,77): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(318,77): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(318,77): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(318,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(318,47): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(318,47): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(318,47): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(318,47): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(405,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(405,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(431,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(431,77): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(431,77): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(431,77): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(431,77): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(431,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(431,47): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(431,47): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(431,47): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(431,47): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(479,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(479,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(506,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(506,77): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(506,77): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(506,77): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(506,77): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(506,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(506,47): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(506,47): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(506,47): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(506,47): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(577,24): warning C4129: '!': unrecognized character escape sequence
+F:\Acm\Project4\Project4\FileName.cpp(585,24): warning C4129: '!': unrecognized character escape sequence
+F:\Acm\Project4\Project4\FileName.cpp(555,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(555,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(599,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(599,77): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(599,77): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(599,77): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(599,77): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(599,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(599,47): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(599,47): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(599,47): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(599,47): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(660,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(660,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(708,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(708,77): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(708,77): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(708,77): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(708,77): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(708,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(708,47): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(708,47): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(708,47): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(708,47): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(783,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(783,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(817,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(817,77): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(817,77): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(817,77): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(817,77): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(817,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(817,47): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(817,47): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(817,47): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(817,47): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(904,29): warning C4129: '!': unrecognized character escape sequence
+F:\Acm\Project4\Project4\FileName.cpp(883,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(883,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(931,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(931,77): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(931,77): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(931,77): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(931,77): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(931,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(931,47): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(931,47): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(931,47): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(931,47): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1179,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1182,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1200,34): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1200,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1202,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1205,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1205,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1207,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1224,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1227,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1278,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1278,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1293,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1293,21): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1300,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1300,22): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1307,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1380,30): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1380,25): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1385,30): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1385,25): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1454,43): warning C4244: '=': conversion from 'sf::Int64' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1470,21): warning C4305: '=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1474,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1499,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1499,87): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1499,87): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1499,87): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1499,87): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1510,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1510,88): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1510,88): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1510,88): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1510,88): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1512,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1512,43): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1512,43): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1512,43): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1512,43): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1546,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1546,87): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1546,87): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1546,87): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1546,87): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1558,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1558,88): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1558,88): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1558,88): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1558,88): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1561,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1561,55): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1561,55): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1561,55): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1561,55): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1568,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1568,73): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1568,73): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1568,73): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1568,73): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1572,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1572,44): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(1572,44): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(1572,44): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(1572,44): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(1619,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1619,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1622,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1639,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1639,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1642,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1661,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1663,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1663,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1666,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1674,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1692,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1692,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1695,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1704,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1721,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1723,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1723,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1726,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1745,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1745,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1748,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1774,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1847,23): warning C4305: '=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1848,23): warning C4305: '=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1855,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1909,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1944,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(1965,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1965,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1973,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(1988,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2003,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2003,43): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2003,43): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2003,43): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(2003,43): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2047,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2047,41): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2047,41): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2047,41): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2047,41): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2071,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2071,41): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2071,41): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2071,41): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2071,41): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2101,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2106,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2114,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2129,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2151,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2166,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2166,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2303,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2303,21): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2326,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2329,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2369,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2369,21): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2437,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2437,19): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2350,9): warning C4101: 'time': unreferenced local variable
+F:\Acm\Project4\Project4\FileName.cpp(2450,43): warning C4244: '=': conversion from 'sf::Int64' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2463,21): warning C4305: '=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2466,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\Acm\Project4\Project4\FileName.cpp(2491,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2491,41): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2491,41): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2491,41): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2491,41): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2501,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2501,87): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2501,87): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2501,87): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2501,87): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2512,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2512,88): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2512,88): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2512,88): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2512,88): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2514,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2514,43): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2514,43): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2514,43): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2514,43): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2538,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2538,41): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2538,41): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2538,41): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2538,41): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2548,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2548,87): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2548,87): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2548,87): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2548,87): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2560,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2560,88): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2560,88): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2560,88): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2560,88): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2563,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2563,55): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2563,55): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2563,55): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2563,55): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2570,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2570,73): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2570,73): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2570,73): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2570,73): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2574,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2574,44): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2574,44): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2574,44): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2574,44): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2641,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2641,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2644,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2656,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2671,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2671,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2674,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2686,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2705,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2705,42): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2705,42): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2705,42): warning C4244:             T=float
+F:\Acm\Project4\Project4\FileName.cpp(2705,42): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2831,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2831,79): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2831,79): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2831,79): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2831,79): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2831,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(2831,49): warning C4244:         with
+F:\Acm\Project4\Project4\FileName.cpp(2831,49): warning C4244:         [
+F:\Acm\Project4\Project4\FileName.cpp(2831,49): warning C4244:             T=int
+F:\Acm\Project4\Project4\FileName.cpp(2831,49): warning C4244:         ]
+F:\Acm\Project4\Project4\FileName.cpp(2939,67): warning C4244: '=': conversion from 'sf::Int64' to 'int', possible loss of data
+F:\Acm\Project4\Project4\FileName.cpp(3038,67): warning C4244: '=': conversion from 'sf::Int64' to 'int', possible loss of data
+  Project4.vcxproj -> F:\Acm\Project4\x64\Debug\Project4.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Acm\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48544EA-EE2A-4717-A5C5-2D994C17641A}|Project4\\Project4.vcxproj|F:\\Acm\\Project4\\Project4\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B48544EA-EE2A-4717-A5C5-2D994C17641A}|Project4\\Project4.vcxproj|solutionrelative:Project4\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48544EA-EE2A-4717-A5C5-2D994C17641A}|Project4\\Project4.vcxproj|F:\\Acm\\Project4\\Project4\\MENU.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B48544EA-EE2A-4717-A5C5-2D994C17641A}|Project4\\Project4.vcxproj|solutionrelative:Project4\\MENU.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48544EA-EE2A-4717-A5C5-2D994C17641A}|Project4\\Project4.vcxproj|F:\\Acm\\Project4\\Project4\\MENU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B48544EA-EE2A-4717-A5C5-2D994C17641A}|Project4\\Project4.vcxproj|solutionrelative:Project4\\MENU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MENU.h",
+              "DocumentMoniker": "F:\\Acm\\Project4\\Project4\\MENU.h",
+              "RelativeDocumentMoniker": "Project4\\MENU.h",
+              "ToolTip": "F:\\Acm\\Project4\\Project4\\MENU.h",
+              "RelativeToolTip": "Project4\\MENU.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-12T15:16:31.332Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MENU.cpp",
+              "DocumentMoniker": "F:\\Acm\\Project4\\Project4\\MENU.cpp",
+              "RelativeDocumentMoniker": "Project4\\MENU.cpp",
+              "ToolTip": "F:\\Acm\\Project4\\Project4\\MENU.cpp",
+              "RelativeToolTip": "Project4\\MENU.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAG0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T15:16:42.9Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "F:\\Acm\\Project4\\Project4\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project4\\FileName.cpp",
+              "ToolTip": "F:\\Acm\\Project4\\Project4\\FileName.cpp",
+              "RelativeToolTip": "Project4\\FileName.cpp",
+              "ViewState": "AQIAAPgDAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T15:57:12.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

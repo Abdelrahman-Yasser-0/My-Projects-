@@ -1,6 +1,4 @@
 
-### 3. **Sound/README.md**  
-```markdown
 # Sound 🔊  
 This folder contains all the sound effects and background music used in Feeding Frenzy to enhance the gaming experience.  
 

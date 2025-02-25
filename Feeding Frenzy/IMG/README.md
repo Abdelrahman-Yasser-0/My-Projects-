@@ -1,6 +1,4 @@
 
-### 2. **Images/README.md**  
-```markdown
 # Images 🖼️  
 This folder contains all the custom graphics, sprites, and textures used in the Feeding Frenzy game.  
 

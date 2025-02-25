@@ -18,3 +18,5 @@ In this thrilling underwater experience:
 - **S** - Move Down  
 - **D** - Move Right  
 - **Mouse Click** - Interact with Menu  
+
+> **⚠️ Note:** In order to run the project, you must place the `Images`, `Fonts`, and `Sound` folders in the main directory where the `.cpp` files are located.

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="427.0" prefWidth="600.0" style="-fx-background-color: bbebff;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.petproj.AdopterScene2_Controller">
+   <children>
+      <Ellipse fill="#fab2dd" layoutX="600.0" layoutY="147.0" radiusX="44.0" radiusY="28.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#fab2dd" layoutX="21.0" layoutY="399.0" radiusX="100.0" radiusY="80.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <ImageView fx:id="imageView1" fitHeight="303.0" fitWidth="174.0" layoutY="124.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true">
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+         <image>
+            <Image url="@../../../images/dog.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imageView" fitHeight="303.0" fitWidth="174.0" layoutX="427.0" layoutY="126.0" pickOnBounds="true">
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+         <image>
+            <Image url="@../../../images/cat.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="submit" alignment="CENTER" cancelButton="true" contentDisplay="CENTER" defaultButton="true" layoutX="191.0" layoutY="278.0" onAction="#handleSendRequests" prefHeight="29.0" prefWidth="200.0" style="-fx-background-color: white;" text="Send Request" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color opacity="0.20000000298023224" />
+               </color>
+            </InnerShadow>
+         </effect>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <ImageView fitHeight="124.0" fitWidth="600.0" pickOnBounds="true">
+         <image>
+            <Image url="@../../../images/shelter'slogoimage.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="submit11" alignment="CENTER" cancelButton="true" contentDisplay="CENTER" defaultButton="true" layoutX="191.0" layoutY="214.0" onAction="#handleMyOldRequests" prefHeight="29.0" prefWidth="200.0" style="-fx-background-color: white;" text="My Old Requests" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color opacity="0.20000000298023224" />
+               </color>
+            </InnerShadow>
+         </effect>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <ImageView fx:id="notification" fitHeight="30.0" fitWidth="33.0" layoutX="499.0" layoutY="132.0" onMousePressed="#NotficationView" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../images/notifications.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="427.0" prefWidth="600.0" style="-fx-background-color: #fab2dd;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.petproj.PetRequest_Admin_Controller">
+   <children>
+      <Ellipse fill="#bbebff" layoutX="600.0" layoutY="147.0" radiusX="44.0" radiusY="28.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Ellipse fill="#bbebff" layoutX="21.0" layoutY="399.0" radiusX="100.0" radiusY="80.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Text fill="WHITE" layoutX="221.0" layoutY="155.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Adoption Requests" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Text>
+      <Button fx:id="accept" alignment="CENTER" cancelButton="true" contentDisplay="CENTER" defaultButton="true" layoutX="54.0" layoutY="360.0" onAction="#Accept" prefHeight="29.0" prefWidth="150.0" style="-fx-background-color: white;" text="Accept" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color opacity="0.20000000298023224" />
+               </color>
+            </InnerShadow>
+         </effect>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <ImageView fitHeight="124.0" fitWidth="600.0" pickOnBounds="true">
+         <image>
+            <Image url="@../../../images/shelter'slogoimage.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imageView" fitHeight="303.0" fitWidth="174.0" layoutX="430.0" layoutY="124.0" pickOnBounds="true">
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+      </ImageView>
+      <ComboBox fx:id="comboBox" layoutX="54.0" layoutY="194.0" nodeOrientation="LEFT_TO_RIGHT" prefWidth="150.0" promptText="Select Pet">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></ComboBox>
+      <ComboBox fx:id="Available_Pets_Box" layoutX="262.0" layoutY="194.0" nodeOrientation="LEFT_TO_RIGHT" prefWidth="150.0" promptText="Select Name">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ComboBox>
+      <Label fx:id="Name" layoutX="84.0" layoutY="233.0" text="Name">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="Age" layoutX="352.0" layoutY="233.0" text="Age">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="Breed" layoutX="213.0" layoutY="233.0" text="Breed">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="Pet_Name" editable="false" layoutX="54.0" layoutY="260.0" prefHeight="11.0" prefWidth="97.0">
+         <cursor>
+            <Cursor fx:constant="TEXT" />
+         </cursor></TextField>
+      <TextField fx:id="Pet_Age" editable="false" layoutX="315.0" layoutY="260.0" prefHeight="11.0" prefWidth="97.0">
+         <cursor>
+            <Cursor fx:constant="TEXT" />
+         </cursor></TextField>
+      <TextField fx:id="Pet_Breed" editable="false" layoutX="182.0" layoutY="260.0" prefHeight="11.0" prefWidth="97.0">
+         <cursor>
+            <Cursor fx:constant="TEXT" />
+         </cursor></TextField>
+      <Button fx:id="reject" alignment="CENTER" cancelButton="true" contentDisplay="CENTER" defaultButton="true" layoutX="262.0" layoutY="360.0" onAction="#Reject" prefHeight="29.0" prefWidth="150.0" style="-fx-background-color: white;" text="Reject" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color opacity="0.20000000298023224" />
+               </color>
+            </InnerShadow>
+         </effect>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <Label fx:id="adopter" layoutX="77.0" layoutY="298.0" text="Adopter">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="Pet_Adopter" editable="false" layoutX="54.0" layoutY="320.0" prefHeight="11.0" prefWidth="97.0">
+         <cursor>
+            <Cursor fx:constant="TEXT" />
+         </cursor></TextField>
+      <Label fx:id="Date" layoutX="216.0" layoutY="298.0" text="Date">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="Pet_Date" editable="false" layoutX="182.0" layoutY="320.0" prefHeight="11.0" prefWidth="97.0">
+         <cursor>
+            <Cursor fx:constant="TEXT" />
+         </cursor></TextField>
+      <Label fx:id="status" layoutX="345.0" layoutY="298.0" text="status">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="request_status" editable="false" layoutX="315.0" layoutY="320.0" prefHeight="11.0" prefWidth="97.0">
+         <cursor>
+            <Cursor fx:constant="TEXT" />
+         </cursor></TextField>
+      <Button fx:id="back" layoutX="54.0" layoutY="156.0" mnemonicParsing="false" onAction="#Back" text="Back" />
+   </children>
+</AnchorPane>
